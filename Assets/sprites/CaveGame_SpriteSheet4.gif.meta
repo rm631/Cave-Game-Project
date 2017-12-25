@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: 384c3aed4cca35448bb0d91572baf9a0
+timeCreated: 1447954689
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaveGame_SpriteSheet4_0
+    21300002: CaveGame_SpriteSheet4_1
+    21300004: CaveGame_SpriteSheet4_2
+    21300006: CaveGame_SpriteSheet4_3
+    21300008: CaveGame_SpriteSheet4_4
+    21300010: CaveGame_SpriteSheet4_5
+    21300012: CaveGame_SpriteSheet4_6
+    21300014: CaveGame_SpriteSheet4_7
+    21300016: CaveGame_SpriteSheet4_8
+    21300018: CaveGame_SpriteSheet4_9
+    21300020: CaveGame_SpriteSheet4_10
+    21300022: CaveGame_SpriteSheet4_11
+    21300024: CaveGame_SpriteSheet4_12
+    21300026: CaveGame_SpriteSheet4_13
+    21300028: CaveGame_SpriteSheet4_14
+    21300030: CaveGame_SpriteSheet4_15
+    21300032: CaveGame_SpriteSheet4_16
+    21300034: CaveGame_SpriteSheet4_17
+    21300036: CaveGame_SpriteSheet4_18
+    21300038: CaveGame_SpriteSheet4_19
+    21300040: CaveGame_SpriteSheet4_20
+    21300042: CaveGame_SpriteSheet4_21
+    21300044: CaveGame_SpriteSheet4_22
+    21300046: CaveGame_SpriteSheet4_23
+    21300048: CaveGame_SpriteSheet4_24
+    21300050: CaveGame_SpriteSheet4_25
+    21300052: CaveGame_SpriteSheet4_26
+    21300054: CaveGame_SpriteSheet4_27
+    21300056: CaveGame_SpriteSheet4_28
+    21300058: CaveGame_SpriteSheet4_29
+    21300060: CaveGame_SpriteSheet4_30
+    21300062: CaveGame_SpriteSheet4_31
+    21300064: CaveGame_SpriteSheet4_32
+    21300066: CaveGame_SpriteSheet4_33
+    21300068: CaveGame_SpriteSheet4_34
+    21300070: CaveGame_SpriteSheet4_35
+    21300072: CaveGame_SpriteSheet4_36
+    21300074: CaveGame_SpriteSheet4_37
+    21300076: CaveGame_SpriteSheet4_38
+    21300078: CaveGame_SpriteSheet4_39
+    21300080: CaveGame_SpriteSheet4_40
+    21300082: CaveGame_SpriteSheet4_41
+    21300084: CaveGame_SpriteSheet4_42
+    21300086: CaveGame_SpriteSheet4_43
+    21300088: CaveGame_SpriteSheet4_44
+    21300090: CaveGame_SpriteSheet4_45
+    21300092: CaveGame_SpriteSheet4_46
+    21300094: CaveGame_SpriteSheet4_47
+    21300096: CaveGame_SpriteSheet4_48
+    21300098: CaveGame_SpriteSheet4_49
+    21300100: CaveGame_SpriteSheet4_50
+    21300102: CaveGame_SpriteSheet4_51
+    21300104: CaveGame_SpriteSheet4_52
+    21300106: CaveGame_SpriteSheet4_53
+    21300108: CaveGame_SpriteSheet4_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CaveGame_SpriteSheet4_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 379
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 378
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 372
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 379
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 373
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 373
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 399
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 400
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 398
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 359
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 357
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 358
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 393
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 356
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 330
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 328
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 327
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 335
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 296
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 299
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 297
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 298
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 267
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 267
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 268
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 274
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 244
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 245
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 212
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 214
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 211
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 211
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 244
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 244
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 215
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 219
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 150
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 149
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 149
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 162
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 158
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 77
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 95
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 94
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 93
+        width: 135
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 94
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 111
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 28
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 27
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet4_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 25
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

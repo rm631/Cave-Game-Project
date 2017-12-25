@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 377abe755555a2f44906a3cb6ae6f58d
+timeCreated: 1447708499
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaveGame_SpriteSheet5_0
+    21300002: CaveGame_SpriteSheet5_1
+    21300004: CaveGame_SpriteSheet5_2
+    21300006: CaveGame_SpriteSheet5_3
+    21300008: CaveGame_SpriteSheet5_4
+    21300010: CaveGame_SpriteSheet5_5
+    21300012: CaveGame_SpriteSheet5_6
+    21300014: CaveGame_SpriteSheet5_7
+    21300016: CaveGame_SpriteSheet5_8
+    21300018: CaveGame_SpriteSheet5_9
+    21300020: CaveGame_SpriteSheet5_10
+    21300022: CaveGame_SpriteSheet5_11
+    21300024: CaveGame_SpriteSheet5_12
+    21300026: CaveGame_SpriteSheet5_13
+    21300028: CaveGame_SpriteSheet5_14
+    21300030: CaveGame_SpriteSheet5_15
+    21300032: CaveGame_SpriteSheet5_16
+    21300034: CaveGame_SpriteSheet5_17
+    21300036: CaveGame_SpriteSheet5_18
+    21300038: CaveGame_SpriteSheet5_19
+    21300040: CaveGame_SpriteSheet5_20
+    21300042: CaveGame_SpriteSheet5_21
+    21300044: CaveGame_SpriteSheet5_22
+    21300046: CaveGame_SpriteSheet5_23
+    21300048: CaveGame_SpriteSheet5_24
+    21300050: CaveGame_SpriteSheet5_25
+    21300052: CaveGame_SpriteSheet5_26
+    21300054: CaveGame_SpriteSheet5_27
+    21300056: CaveGame_SpriteSheet5_28
+    21300058: CaveGame_SpriteSheet5_29
+    21300060: CaveGame_SpriteSheet5_30
+    21300062: CaveGame_SpriteSheet5_31
+    21300064: CaveGame_SpriteSheet5_32
+    21300066: CaveGame_SpriteSheet5_33
+    21300068: CaveGame_SpriteSheet5_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CaveGame_SpriteSheet5_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 446
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 446
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 446
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 446
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 399
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 396
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 352
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 349
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 279
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 280
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 277
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 277
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 277
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 205
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 205
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 206
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 115
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 151
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 115
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 115
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 115
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CaveGame_SpriteSheet5_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 8
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
